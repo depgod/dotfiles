@@ -7,7 +7,7 @@
 ![zshrc](zsh/ss990.png)
 * Tmux config is to set a few bindkeys and Dracula theme.
 
-![recording](https://github.com/depgod/dotfiles/raw/main/tmux/recording.webm)
+![recording](tmux/recording.webm)
 
 * My favourite shell fonts:
     > https://www.jetbrains.com/lp/mono/
