@@ -3,7 +3,7 @@
 * These are my personal dotfiles that i use in my day to day workflow.
 * The neovim config in the repo is basically default nvChad flavour of neovim.
 * For the zshrc I am using a default zsh with a few plugins and powerlevel10k theme to just fancy up my shell mostly.
-![zshrc](https://raw.githubusercontent.com/depgod/dotfiles/main/zsh/ss990.png)
+![zshrc](https://raw.githubusercontent.com/depgod/dotfiles/main/zsh/ss990.png?token=GHSAT0AAAAAACWHUUCLWI464B6YFQPAAQE2ZWTFNQQ)
 
 * Tmux config is to set a few bindkeys and Dracula theme.
 
