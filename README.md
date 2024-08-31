@@ -1,4 +1,5 @@
 # Dotfiles
+![dotfiles](https://repository-images.githubusercontent.com/8196606/94ea9d00-7b04-11e9-8de7-a7852d3ab92d)
 
 * These are my personal dotfiles that i use in my day to day workflow.
 * The neovim config in the repo is basically default nvChad flavour of neovim.
