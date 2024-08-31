@@ -4,7 +4,7 @@
 * The neovim config in the repo is basically default nvChad flavour of neovim.
 * For the zshrc I am using a default zsh with a few plugins and powerlevel10k theme to just fancy up my shell mostly.
 * Tmux config is to set a few bindkeys and Dracula theme.
-    <video src="/tmux/recording.webm" width="320" height="240" controls></video>
+    [![recording](/tmux/recording.webm)]
 
 * My favourite shell fonts:
 
