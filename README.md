@@ -6,6 +6,6 @@
 * For the zshrc I am using a default zsh with a few plugins and powerlevel10k theme to just fancy up my shell mostly.
 ![zshrc](zsh/ss990.png)
 * Tmux config is to set a few bindkeys and Dracula theme.
-![recording](https://github.com/depgod/dotfiles/blob/main/tmux/recording.webm)
+![recording](tmux/recording.webm)
 * My favourite shell fonts:
     > https://www.jetbrains.com/lp/mono/
