@@ -2,6 +2,7 @@
 
 * These are my personal dotfiles that i use in my day to day workflow.
 * The neovim config in the repo is basically default nvChad flavour of neovim.
+![nvim](https://raw.githubusercontent.com/depgod/dotfiles/main/nvim/ss100.png?token=GHSAT0AAAAAACWHUUCKJ7WL3XESD4ZMZKTWZWTFS2Q)
 * For the zshrc I am using a default zsh with a few plugins and powerlevel10k theme to just fancy up my shell mostly.
 ![zshrc](https://raw.githubusercontent.com/depgod/dotfiles/main/zsh/ss990.png?token=GHSAT0AAAAAACWHUUCLWI464B6YFQPAAQE2ZWTFNQQ)
 
