@@ -1,6 +1,5 @@
-# Dotfiles
 ![dotfiles](https://dotfiles.github.io/images/dotfiles-logo.png)  
-  
+---  
 * These are my personal dotfiles that i use in my day to day workflow.  
 * The neovim config in the repo is basically default nvChad flavour of neovim.  
 ![nvim](nvim/ss100.png)  
@@ -12,4 +11,5 @@
   
 * My favourite shell fonts:
     > https://www.jetbrains.com/lp/mono/
-  
+
+---
