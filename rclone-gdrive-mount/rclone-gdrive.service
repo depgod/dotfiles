@@ -1,0 +1,17 @@
+[Unit]
+Description=RClone Google Drive mount
+After=network.target
+
+[Service]
+Type=notify
+KillMode=none
+RestartSec=5
+ExecStart=/usr/bin/rclone mount Google:/ $HOME/gdrive --allow-other --config=$HOME/.config/rclone/rclone.conf
+ExecStop=/bin/fusermount -uz $HOME/gdrive
+ExecStartPost=/usr/bin/rclone rc vfs/refresh recursive=true --rc-addr 127.0.0.1:5572 _async=true
+Restart=on-failure
+User=$USER
+Group=$USER
+
+[Install]
+WantedBy=multi-user.target
